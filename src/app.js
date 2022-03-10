@@ -24,7 +24,7 @@ console.log(konutKredileri) //(3) ['Konut Kredisi', 'Emlak Konut Kredisi', 'Kam
 
 
 //let users = getUsersFromApi()
-
+ 
 console.log("<ul>")
 
 for (let i = 0; i < konutKredileri.length; i++) {
